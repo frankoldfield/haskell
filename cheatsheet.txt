@@ -1,0 +1,1 @@
+Asignar el editor: :set editor /usr/share/code/bin/code
